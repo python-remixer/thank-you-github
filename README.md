@@ -2454,4 +2454,5 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Vishal Zambre ([@vishalzambre](https://github.com/vishalzambre/)),Software Engineer | Ruby | Web Developer, Pune, India
 - Rami Mohammed ([@RamiMohammedSeid](https://github.com/RamiMohammedSeid)), 16y old Full-Stack Developer | Adiss Ababa, Ethiopia
 - Peter Li ([@cutePanda123](https://github.com/cutePanda123)), Software Developer, Seattle, USA
-- Adlan Sadou ([@AdlanSadou](https://github.com/AdlanSadou/)) Chechen, Epitech Student France
+- Adlan Sadou ([@AdlanSadou](https://github.com/AdlanSadou/)), Chechen, Epitech Student France
+- Reyaansh Jhaveri ([@python-remixer](https://github.com/python-remixer/)), Python Backend Developer, Gujarat, India
